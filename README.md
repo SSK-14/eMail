@@ -3,3 +3,4 @@ Google's Gmail SMTP server is a free SMTP service which anyone who has a Gmail a
 
 NOTE : Turn Allow less secure apps to ON. Be aware that this makes it easier for others to gain access to your account.
 
+Simple code . Can send email to many people at a time with as many attachments .
